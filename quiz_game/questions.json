@@ -1,0 +1,37 @@
+[
+  {
+    "question": "What does CPU stand for?",
+    "answer": "central processing unit",
+    "choices": ["central processing unit", "computer power unit", "control panel utility"],
+    "difficulty": "easy",
+    "explanation": "CPU stands for Central Processing Unit, which is the brain of the computer."
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "answer": "mars",
+    "choices": ["venus", "mars", "jupiter"],
+    "difficulty": "easy",
+    "explanation": "Mars is called the Red Planet due to its reddish appearance caused by iron oxide on its surface."
+  },
+  {
+    "question": "What does RAM stand for?",
+    "answer": "random access memory",
+    "choices": ["read access memory", "random access memory", "rapid application module"],
+    "difficulty": "easy",
+    "explanation": "RAM stands for Random Access Memory, which temporarily stores data for quick access by the CPU."
+  },
+  {
+    "question": "Who invented the World Wide Web?",
+    "answer": "tim berners-lee",
+    "choices": ["bill gates", "tim berners-lee", "steve jobs"],
+    "difficulty": "medium",
+    "explanation": "Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN."
+  },
+  {
+    "question": "Which data structure uses LIFO (Last In First Out)?",
+    "answer": "stack",
+    "choices": ["queue", "stack", "array"],
+    "difficulty": "medium",
+    "explanation": "A stack follows the Last In First Out principle, where the last element added is the first to be removed."
+  }
+]
